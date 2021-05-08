@@ -29,6 +29,11 @@ img {
     margin-top: 10px;
 }
 
+font-family: 'JustLettersMedium';
+font-weight: normal;
+font-style: normal;
+font-size: 36px;
+
 #title {
     position: fixed;
     top: 0px;
@@ -39,10 +44,6 @@ img {
     background-color: lightyellow;
     text-align: center;
     z-index: 10;
-    font-family: 'JustLettersMedium';
-    font-weight: normal;
-    font-style: normal;
-    font-size: 36px;
 }
 
 #container {
