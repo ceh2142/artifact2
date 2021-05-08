@@ -23,32 +23,3 @@
 body {
     background-image: url("http://3.bp.blogspot.com/-aNRb0w9Uu2E/Uk0w1v9lXjI/AAAAAAAAHrM/RipxfZqlQQ4/s1600/Texture-Backgrounds-Wallpaper-HD.jpg");
 }
-
-img {
-    margin-left: 5px;
-    margin-top: 10px;
-}
-
-font-family: 'JustLettersMedium';
-font-weight: normal;
-font-style: normal;
-font-size: 36px;
-
-#title {
-    position: fixed;
-    top: 0px;
-    left: 0px;
-    padding: 10px;
-    margin: 0px;
-    width: 100%;
-    background-color: lightyellow;
-    text-align: center;
-    z-index: 10;
-}
-
-#container {
-    margin-top: 20%;
-    margin-left: 10%;
-    margin-right: 10%;
-    margin-bottom: 5%;
-}
