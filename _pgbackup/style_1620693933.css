@@ -31,7 +31,7 @@ img {
 }
 
 .row {
-    position: center;
+    position: relative;
     margin-left: 10%;
     margin-right: 10%;
 }
